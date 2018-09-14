@@ -1,0 +1,969 @@
+<Uninstall>
+    <Version versionnum="1.0"/>
+    <Files>
+        <File path="E:\\Misc\CSC\2052\2\1"/>
+        <File path="E:\\Misc\CSC\2052\3\1"/>
+        <File path="E:\\Misc\CSC\2052\4\1"/>
+        <File path="E:\\Misc\CSC\2052\5\1"/>
+        <File path="E:\\Misc\CSC\2052\7\1"/>
+        <File path="E:\\Misc\CSC\2052\8\1"/>
+        <File path="E:\\Misc\CSC\2052\13\1"/>
+        <File path="E:\\Misc\CSC\2052\10\1"/>
+        <File path="E:\\Misc\CSC\2052\11\1"/>
+        <File path="E:\\Misc\CSC\2052\9\1"/>
+        <File path="E:\\Misc\CSC\2052\15\1"/>
+        <File path="E:\\Misc\CSC\2052\17\1"/>
+        <File path="E:\\Misc\CSC\2052\18\1"/>
+        <File path="E:\\Misc\CSC\2052\7\10"/>
+        <File path="E:\\Misc\CSC\2052\2\10"/>
+        <File path="E:\\Misc\CSC\2052\9\10"/>
+        <File path="E:\\Misc\CSC\2052\13\10"/>
+        <File path="E:\\Misc\CSC\2052\14\10"/>
+        <File path="E:\\Misc\CSC\2052\2\11"/>
+        <File path="E:\\Misc\CSC\2052\7\11"/>
+        <File path="E:\\Misc\CSC\2052\13\11"/>
+        <File path="E:\\Misc\CSC\2052\9\12"/>
+        <File path="E:\\Misc\CSC\2052\2\12"/>
+        <File path="E:\\Misc\CSC\2052\13\12"/>
+        <File path="E:\\Misc\CSC\2052\14\12"/>
+        <File path="E:\\Misc\CSC\2052\7\13"/>
+        <File path="E:\\Misc\CSC\2052\2\13"/>
+        <File path="E:\\Misc\CSC\2052\13\13"/>
+        <File path="E:\\Misc\CSC\2052\7\14"/>
+        <File path="E:\\Misc\CSC\2052\13\14"/>
+        <File path="E:\\Misc\CSC\2052\9\15"/>
+        <File path="E:\\Misc\CSC\2052\2\15"/>
+        <File path="E:\\Misc\CSC\2052\13\15"/>
+        <File path="E:\\Misc\CSC\2052\7\15"/>
+        <File path="E:\\Misc\CSC\2052\7\16"/>
+        <File path="E:\\Misc\CSC\2052\2\16"/>
+        <File path="E:\\Misc\CSC\2052\13\16"/>
+        <File path="E:\\Misc\CSC\2052\9\17"/>
+        <File path="E:\\Misc\CSC\2052\7\17"/>
+        <File path="E:\\Misc\CSC\2052\2\17"/>
+        <File path="E:\\Misc\CSC\2052\2\18"/>
+        <File path="E:\\Misc\CSC\2052\13\18"/>
+        <File path="E:\\Misc\CSC\2052\7\18"/>
+        <File path="E:\\Misc\CSC\2052\9\18"/>
+        <File path="E:\\Misc\CSC\2052\2\19"/>
+        <File path="E:\\Misc\CSC\2052\13\19"/>
+        <File path="E:\\Misc\CSC\2052\9\19"/>
+        <File path="E:\\Misc\CSC\2052\13\2"/>
+        <File path="E:\\Misc\CSC\2052\5\2"/>
+        <File path="E:\\Misc\CSC\2052\7\2"/>
+        <File path="E:\\Misc\CSC\2052\15\2"/>
+        <File path="E:\\Misc\CSC\2052\2\2"/>
+        <File path="E:\\Misc\CSC\2052\2\20"/>
+        <File path="E:\\Misc\CSC\2052\13\20"/>
+        <File path="E:\\Misc\CSC\2052\7\20"/>
+        <File path="E:\\Misc\CSC\2052\2\21"/>
+        <File path="E:\\Misc\CSC\2052\7\21"/>
+        <File path="E:\\Misc\CSC\2052\9\21"/>
+        <File path="E:\\Misc\CSC\2052\13\21"/>
+        <File path="E:\\Misc\CSC\2052\2\22"/>
+        <File path="E:\\Misc\CSC\2052\7\22"/>
+        <File path="E:\\Misc\CSC\2052\13\22"/>
+        <File path="E:\\Misc\CSC\2052\2\23"/>
+        <File path="E:\\Misc\CSC\2052\7\23"/>
+        <File path="E:\\Misc\CSC\2052\2\24"/>
+        <File path="E:\\Misc\CSC\2052\13\24"/>
+        <File path="E:\\Misc\CSC\2052\7\25"/>
+        <File path="E:\\Misc\CSC\2052\7\26"/>
+        <File path="E:\\Misc\CSC\2052\13\26"/>
+        <File path="E:\\Misc\CSC\2052\7\27"/>
+        <File path="E:\\Misc\CSC\2052\13\27"/>
+        <File path="E:\\Misc\CSC\2052\7\28"/>
+        <File path="E:\\Misc\CSC\2052\7\29"/>
+        <File path="E:\\Misc\CSC\2052\1\3"/>
+        <File path="E:\\Misc\CSC\2052\7\3"/>
+        <File path="E:\\Misc\CSC\2052\8\3"/>
+        <File path="E:\\Misc\CSC\2052\13\3"/>
+        <File path="E:\\Misc\CSC\2052\2\3"/>
+        <File path="E:\\Misc\CSC\2052\14\3"/>
+        <File path="E:\\Misc\CSC\2052\9\3"/>
+        <File path="E:\\Misc\CSC\2052\8\4"/>
+        <File path="E:\\Misc\CSC\2052\9\4"/>
+        <File path="E:\\Misc\CSC\2052\5\4"/>
+        <File path="E:\\Misc\CSC\2052\14\4"/>
+        <File path="E:\\Misc\CSC\2052\13\4"/>
+        <File path="E:\\Misc\CSC\2052\8\5"/>
+        <File path="E:\\Misc\CSC\2052\9\5"/>
+        <File path="E:\\Misc\CSC\2052\2\5"/>
+        <File path="E:\\Misc\CSC\2052\7\5"/>
+        <File path="E:\\Misc\CSC\2052\1\5"/>
+        <File path="E:\\Misc\CSC\2052\14\5"/>
+        <File path="E:\\Misc\CSC\2052\13\5"/>
+        <File path="E:\\Misc\CSC\2052\7\6"/>
+        <File path="E:\\Misc\CSC\2052\8\6"/>
+        <File path="E:\\Misc\CSC\2052\9\6"/>
+        <File path="E:\\Misc\CSC\2052\2\6"/>
+        <File path="E:\\Misc\CSC\2052\14\6"/>
+        <File path="E:\\Misc\CSC\2052\1\7"/>
+        <File path="E:\\Misc\CSC\2052\9\7"/>
+        <File path="E:\\Misc\CSC\2052\13\7"/>
+        <File path="E:\\Misc\CSC\2052\2\7"/>
+        <File path="E:\\Misc\CSC\2052\14\7"/>
+        <File path="E:\\Misc\CSC\2052\9\8"/>
+        <File path="E:\\Misc\CSC\2052\2\8"/>
+        <File path="E:\\Misc\CSC\2052\13\8"/>
+        <File path="E:\\Misc\CSC\2052\2\9"/>
+        <File path="E:\\Misc\CSC\2052\14\9"/>
+        <File path="E:\\Misc\CSC\2052\9\9"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Misc\qzonepackage\blog"/>
+        <File path="E:\\Bin\LICENSE\bsdiff"/>
+        <File path="E:\\Bin\LICENSE\chromium"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Misc\qzonepackage\common"/>
+        <File path="E:\\Misc\WordData\dict1"/>
+        <File path="E:\\Misc\WordData\dict2"/>
+        <File path="E:\\Misc\WordData\dict3"/>
+        <File path="E:\\Misc\WordData\dict5"/>
+        <File path="E:\\Misc\WordData\dict6"/>
+        <File path="E:\\Misc\WordData\dict7"/>
+        <File path="E:\\Bin\LICENSE\dmg_fp"/>
+        <File path="E:\\Bin\LICENSE\dynamic_annotations"/>
+        <File path="E:\\Bin\LICENSE\google-url"/>
+        <File path="E:\\Plugin\Com.Tencent.Soso\Misc\HotWord\hwdata"/>
+        <File path="E:\\Bin\LICENSE\icu"/>
+        <File path="E:\\Bin\LICENSE\libvpx"/>
+        <File path="E:\\Bin\LICENSE\lzma"/>
+        <File path="E:\\Bin\LICENSE\modp_b64"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Misc\qzonepackage\notepad"/>
+        <File path="E:\\Bin\LICENSE\pcre2"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Misc\qzonepackage\photo"/>
+        <File path="E:\\Bin\LICENSE\protobuf-lite"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\PropFace\QQShowObjDefault"/>
+        <File path="E:\\Bin\LICENSE\speex"/>
+        <File path="E:\\Bin\LICENSE\xdg_user_dirs"/>
+        <File path="E:\\Bin\qb.pak"/>
+        <File path="E:\\Bin\qb_100_percent.pak"/>
+        <File path="E:\\Bin\qb_200_percent.pak"/>
+        <File path="E:\\Misc\Sound\Classic\Audio.wav"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\Misc\GAudio_Call.wav"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\Misc\GAudio_Receive.wav"/>
+        <File path="E:\\Misc\Sound\Classic\Global.wav"/>
+        <File path="E:\\Misc\Sound\Classic\msg.wav"/>
+        <File path="E:\\Plugin\Com.Tencent.PaiPai\Misc\Sound\PaiPaiMsg.wav"/>
+        <File path="E:\\Misc\Sound\Classic\shake.wav"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\Misc\SoundTest.wav"/>
+        <File path="E:\\Misc\Sound\Classic\system.wav"/>
+        <File path="E:\\Misc\Sound\Classic\tweet.wav"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\Misc\VideoShow_Countdown.wav"/>
+        <File path="E:\\Misc\ResSwf\afternoon.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\supervip\AppearAni_SuperVip.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Advertisement\Misc\defaultrich.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Advertisement\Misc\defaultvideo.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_boy.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_boy_friend.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_girl.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_girl_friend.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\ExpressionMain.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Misc\lover_sendmsg.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\1\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\2\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\3\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\4\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\5\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\6\main.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\7\main.swf"/>
+        <File path="E:\\Misc\ResSwf\morning.swf"/>
+        <File path="E:\\Misc\ResSwf\night.swf"/>
+        <File path="E:\\Misc\ResSwf\noon.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2.0_client.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2.0_clientV2.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2.0_clientV3.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2.0_snapshot.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2_boy.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2_girl.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\2052\wireless_overlay.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\2052\wireless_overlay_3g.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\2052\wireless_overlay_qqforpad.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\2052\wireless_overlay_wap.swf"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\2005_Preview.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101\2010_Preview.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\2013_preview.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\102\2014_preview.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\a1_t.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\alert.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_bg.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_icon.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_img_bg.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_line.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_nav.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_boy.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_boy_friend.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_girl.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_girl_friend.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2_boy.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\qqshow2_girl.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\tips_bg.gif"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\aio_def.jpg"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ci_def.jpg"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\main.jpg"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\tips_def.jpg"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\01.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\02.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\03.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\04.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\05.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\2005_Preview.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101\2010_Preview.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\2013_preview.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\102\2014_preview.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\3GMobileQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\3GMobileQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\3GMobileQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\3GMobileQQAway10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\3GMobileQQAway20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp\100001\app_icon_16.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp\100001\app_icon_40.png"/>
+        <File path="E:\\Misc\Editor\images\newicon\arrow.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\badge_all_level.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\crm_logo.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_boy_v3.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\default_av_girl_v3.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\error_info.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\face_border.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\icon_all.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\iPhoneQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\iPhoneQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\iPhoneQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\iPhoneQQPush10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\iPhoneQQPush20.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ltc.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQ13.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQAway20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQBusy20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQPush10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQPush13.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MobileQQPush20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\MQQ20.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ms_sidebar_tabs_c.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ms_sidebar_tabs_l.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\ms_sidebar_tabs_r.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PadQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PadQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PadQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PadQQAway10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PadQQAway20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQaway10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQAway20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQBusy10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQBusy20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQInvisible10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQInvisible20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQMute10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQMute20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQQme10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\PCQQQme20.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\popup_bg.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\popup_bg_all.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\popup_bg_hover.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\popup_bg_pressed.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101\qie17a.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101\qie17b.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\side_icons.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQPush10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQPush14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TIMQQPush20.png"/>
+        <File path="E:\\Misc\Editor\images\ToolbarExt.png"/>
+        <File path="E:\\Misc\Editor\images\Toolbar_d.png"/>
+        <File path="E:\\Misc\Editor\images\Toolbar_h.png"/>
+        <File path="E:\\Misc\Editor\images\Toolbar_n.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TVQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TVQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\TVQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WapMobileQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WapMobileQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQ14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQ20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQAway10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQAway20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQBusy20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQMute20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WebQQQme20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WeiXin10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WeiXin14.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WeiXin20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WeiXinPush10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\WeiXinPush20.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\Win8QQ10.png"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType\Win8QQ20.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\xiaoxiong17a.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\xiaoxiong17b.png"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\xiaoxiong17c.png"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img\zone_logo.png"/>
+        <File path="E:\\Misc\LNNEsc\defaultTips\Tips_I_back2.bmp"/>
+        <File path="E:\\Bin\natives_blob.bin"/>
+        <File path="E:\\Bin\snapshot_blob.bin"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp\100001\appinfo.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101\CFConfig.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\102\CFConfig.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103\CFConfig.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104\CFConfig.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N\config.xml"/>
+        <File path="E:\\I18N\config.xml"/>
+        <File path="E:\\AuI18N\config.xml"/>
+        <File path="E:\\Misc\BrSelfExp\2052\expconfig.xml"/>
+        <File path="E:\\I18N\2052\FontList.xml"/>
+        <File path="E:\\gf-config-postlogin.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.NetDisk\gf-config.xml"/>
+        <File path="E:\\gf-config.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.AppStore\gf-config.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.BabyQ\gf-config.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N\2052\GFStringBundle.xml"/>
+        <File path="E:\\I18N\2052\GFStringBundle.xml"/>
+        <File path="E:\\I18N\2052\GroupLayer.xml"/>
+        <File path="E:\\Misc\InstallNews.xml"/>
+        <File path="E:\\I18N\2052\LangList.xml"/>
+        <File path="E:\\I18N\2052\LocList.xml"/>
+        <File path="E:\\Misc\QQApp\MetaAppConfig.xml"/>
+        <File path="E:\\I18N\2052\PGFStringBundle.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Misc\QQShowCharFaceMap.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\RecommendList.xml"/>
+        <File path="E:\\AuI18N\2052\StringBundle.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N\2052\StringBundle.xml"/>
+        <File path="E:\\I18N\2052\StringBundle.xml"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N\StringState.xml"/>
+        <File path="E:\\Bin\AddEmotion.htm"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\binfodlg_temp.htm"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\binfotips_temp.htm"/>
+        <File path="E:\\Plugin\Com.Tencent.HRTX\Misc\html_template\binfotips_temp.htm"/>
+        <File path="E:\\Plugin\Com.Tencent.HRTX\Misc\html_template\client_aio.html"/>
+        <File path="E:\\Misc\Editor\html\editor.html"/>
+        <File path="E:\\Misc\LNNEsc\defaultTips\tips.html"/>
+        <File path="E:\\Misc\Editor\html\css\comm.css"/>
+        <File path="E:\\Misc\Editor\css\editor.css"/>
+        <File path="E:\\Misc\Editor\release\editor.js"/>
+        <File path="E:\\Misc\Editor\release\editor_menu.js"/>
+        <File path="E:\\Misc\Editor\release\editor_toolbar.js"/>
+        <File path="E:\\Misc\Editor\release\editor_toolbar_plus.js"/>
+        <File path="E:\\QQWhatsnew.txt"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\kernelInfo.ini"/>
+        <File path="E:\\QQLicense.rtf"/>
+        <File path="E:\\Plugin\pluginList.db"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp\100001\100001.app"/>
+        <File path="E:\\Misc\QQApp\com.tencent.applist.app"/>
+        <File path="E:\\Misc\QQApp\com.tencent.banner.app"/>
+        <File path="E:\\Misc\QQApp\com.tencent.map.app"/>
+        <File path="E:\\Misc\QQApp\com.tencent.movieticket.app"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteHelp\Misc\desktop_view.cur"/>
+        <File path="E:\\Misc\QScan\config.dat"/>
+        <File path="E:\\I18N\2052\DGM.dat"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\fm.dat"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\haar_face_1.dat"/>
+        <File path="E:\\Bin\icudtl.dat"/>
+        <File path="E:\\Misc\QScan\QSLSig.dat"/>
+        <File path="E:\\Misc\QScan\sig.dat"/>
+        <File path="E:\\I18N\2052\tradelist.dat"/>
+        <File path="E:\\Bin\TSIP.DAT"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\SafeBase\TSSafeEdit.dat"/>
+        <File path="E:\\Bin\TSSafeEdit.dat"/>
+        <File path="E:\\Bin\vi.dat"/>
+        <File path="E:\\I18N\2052\UrlBundle.xml.enc"/>
+        <File path="E:\\Bin\Applaunch.prf"/>
+        <File path="E:\\Plugin\Com.Tencent.Advertisement\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.AppStore\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.BabyQ\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.DingDong\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.FileTransfer\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.GameLife\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Graffito\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.HRTX\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.IOT\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Mail\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Memo\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.MMOG\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.NetBar\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.NetDisk\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.PaiPai\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.PayCenter\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQGame\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQLive\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQMusic\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQRing\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.QQWebsite\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteHelp\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.SNSApp\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Soso\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Stock\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Today\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Tribe\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.VAS\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.WBlog\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.WenWen\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Winks\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Wireless\Bundle.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.XiuRoom\Bundle.rdb"/>
+        <File path="E:\\Resource.8.9.5.22057\Data.rdb"/>
+        <File path="E:\\Resource.8.9.5.22057\Themes\Default.rdb"/>
+        <File path="E:\\Bin\maMainFrame.rdb"/>
+        <File path="E:\\Bin\MedalWall.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\Res.rdb"/>
+        <File path="E:\\Resource.8.9.5.22057\Res.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\Xtml.rdb"/>
+        <File path="E:\\Resource.8.9.5.22057\Xtml.rdb"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\FlashPlayer.tpc"/>
+        <File path="E:\\Bin\maMainFrame.tpc"/>
+        <File path="E:\\Bin\MedalWall.tpc"/>
+        <File path="E:\\platform.tpc"/>
+        <File path="E:\\Timwp_gf.tpc"/>
+        <File path="E:\\common.xml.txd"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\common.xml.txd"/>
+        <File path="E:\\config.xml.txd"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\gf-config.xml.txd"/>
+        <File path="E:\\Plugin\pluginlist.tpc.txd"/>
+        <File path="E:\\Timwp.xml.txd"/>
+        <File path="E:\\Bin\auclt.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Bin\FlashPlayer.exe"/>
+        <File path="E:\\Bin\maLauncher.exe"/>
+        <File path="E:\\Bin\maUpdat.exe"/>
+        <File path="E:\\Bin\minibrowser.exe"/>
+        <File path="E:\\Bin\QPerfHelper.exe"/>
+        <File path="E:\\Bin\QQ.exe"/>
+        <File path="E:\\Bin\QQApp.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\QQExternal.exe"/>
+        <File path="E:\\Bin\QQExternal.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\QQMiniGameBoxSetup.exe"/>
+        <File path="E:\\Bin\QQPcmgrDownload.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\QQPetAgent.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\QQPetDazzle.exe"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\QQPetKernelBeta16Build001.EXE"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet\QQPetURLLink.exe"/>
+        <File path="C:\Users\41866\AppData\Roaming\Tencent\QQ\SafeBase\QQSafeUD.exe"/>
+        <File path="E:\\Bin\QQSafeUD.exe"/>
+        <File path="E:\\Bin\QQScLauncher.exe"/>
+        <File path="E:\\QQUninst.exe"/>
+        <File path="E:\\Bin\QQUrlMgr.exe"/>
+        <File path="E:\\Bin\StorageTool.exe"/>
+        <File path="E:\\Bin\Tencentdl.exe"/>
+        <File path="E:\\Bin\Timwp.exe"/>
+        <File path="E:\\Bin\TxBugReport.exe"/>
+        <File path="E:\\Bin\TXPlatform.exe"/>
+        <File path="E:\\txupd.exe"/>
+        <File path="E:\\Bin\AddrSearch.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Advertisement\Bin\Advertisement.dll"/>
+        <File path="E:\\Bin\AdvVideoDev.dll"/>
+        <File path="E:\\Bin\AFBase.dll"/>
+        <File path="E:\\Bin\AFCtrl.dll"/>
+        <File path="E:\\Bin\AFUtil.dll"/>
+        <File path="E:\\Bin\AppCenter.dll"/>
+        <File path="E:\\Bin\AppCom.dll"/>
+        <File path="E:\\Bin\AppFramework.dll"/>
+        <File path="E:\\Bin\AppMisc.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.DingDong\Bin\approval.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AppStore\Bin\AppStore.dll"/>
+        <File path="E:\\Bin\AppUtil.dll"/>
+        <File path="E:\\Bin\ark.dll"/>
+        <File path="E:\\Bin\arkFS.dll"/>
+        <File path="E:\\Bin\arkGraphic.dll"/>
+        <File path="E:\\Bin\arkHTTPClient.dll"/>
+        <File path="E:\\Bin\arkImage.dll"/>
+        <File path="E:\\Bin\arkIOStub.dll"/>
+        <File path="E:\\Bin\arkIPC.dll"/>
+        <File path="E:\\Bin\arkSocket.dll"/>
+        <File path="E:\\Bin\arkXML.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\AsyncSpeechEngine.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.IOT\Bin\AsyncSpeechEngine2.dll"/>
+        <File path="E:\\Bin\AsyncTask.dll"/>
+        <File path="E:\\Bin\AuCommon.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\audioengine.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\audioengine32.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\AudioVideo.dll"/>
+        <File path="E:\\Bin\Auvqqsdl.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\AVGSDK.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\AVSDK.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.BabyQ\Bin\BabyQ.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\Base.dll"/>
+        <File path="E:\\Bin\Camera.dll"/>
+        <File path="E:\\Bin\CameraRS.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\Capture.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\CaptureHelper.dll"/>
+        <File path="E:\\Bin\CefSubProcess.dll"/>
+        <File path="E:\\Bin\ChatFrameApp.dll"/>
+        <File path="E:\\Bin\Common.dll"/>
+        <File path="E:\\Bin\ConfigCenter.dll"/>
+        <File path="E:\\Bin\ContactInfoFrame.dll"/>
+        <File path="E:\\Bin\ContactMgr.dll"/>
+        <File path="E:\\Bin\CPHelper.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.CRM\Bin\CRM.dll"/>
+        <File path="E:\\Bin\CustomFace.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.DingDong\Bin\DingDong.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.NetDisk\Bin\DiskLite.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\DocShare.dll"/>
+        <File path="E:\\Bin\DownloadProxyPS.dll"/>
+        <File path="E:\\Bin\dwmcapDT32.dll"/>
+        <File path="E:\\Bin\dwmcapDT64.dll"/>
+        <File path="E:\\Bin\Extract.dll"/>
+        <File path="E:\\Bin\FacePackageDll.dll"/>
+        <File path="E:\\Bin\ffmpegsumo.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.FileTransfer\Bin\FileTransfer.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.IOT\Bin\findprint_mdns.dll"/>
+        <File path="E:\\Bin\FirstLoad.dll"/>
+        <File path="E:\\Bin\FlashControl.dll"/>
+        <File path="E:\\Bin\FlashControlService.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.GameLife\Bin\GameLife.dll"/>
+        <File path="E:\\Bin\GF.dll"/>
+        <File path="E:\\Bin\GFRichControl.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\GIPSVoiceEngineDLL.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\GIPSVoiceEngineDLL_MD.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Graffito\Bin\Graffito.dll"/>
+        <File path="E:\\Bin\GroupApp.dll"/>
+        <File path="E:\\Bin\HotPic.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.HRTX\Bin\HRTX.dll"/>
+        <File path="E:\\Bin\HummerEngine.dll"/>
+        <File path="E:\\Bin\IM.dll"/>
+        <File path="E:\\Bin\InformationBox.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\IntelDec.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\IntelEnc.dll"/>
+        <File path="E:\\Bin\IntelUtil.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.IOT\Bin\IOT.dll"/>
+        <File path="E:\\Bin\jsonc.dll"/>
+        <File path="E:\\Bin\KernelMisc.dll"/>
+        <File path="E:\\Bin\KernelUtil.dll"/>
+        <File path="E:\\Bin\libeay32.dll"/>
+        <File path="E:\\Bin\libEGL.dll"/>
+        <File path="E:\\Bin\libexpat.dll"/>
+        <File path="E:\\Bin\libGLESv2.dll"/>
+        <File path="E:\\Bin\libhttp.dll"/>
+        <File path="E:\\Bin\libimagequant.dll"/>
+        <File path="E:\\Bin\libjpegturbo.dll"/>
+        <File path="E:\\Bin\libpng.dll"/>
+        <File path="E:\\Bin\libtcmalloc.dll"/>
+        <File path="E:\\Bin\libuv.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Wireless\Bin\litetransfer.dll"/>
+        <File path="E:\\Bin\LoginLogic.dll"/>
+        <File path="E:\\Bin\LoginUI.dll"/>
+        <File path="E:\\Bin\LongCnn.dll"/>
+        <File path="E:\\Bin\lua.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Mail\Bin\Mail.dll"/>
+        <File path="E:\\Bin\MainFrame.dll"/>
+        <File path="E:\\Bin\maJmp.dll"/>
+        <File path="E:\\Bin\maMainFrame.dll"/>
+        <File path="E:\\Bin\maUtility.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\Media.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\MediaEngine.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Memo\Bin\Memo.dll"/>
+        <File path="E:\\Bin\minibrowser_shell.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.MMOG\Bin\MMOG.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.IOT\Bin\MP4Mux.dll"/>
+        <File path="E:\\Bin\MsgMgr.dll"/>
+        <File path="E:\\Bin\msvcp60.dll"/>
+        <File path="E:\\Bin\MyCollection.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\Net.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.NetBar\Bin\NetBar.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.NetDisk\Bin\NetDisk.dll"/>
+        <File path="E:\\Bin\plugins\NPMsgImage.dll"/>
+        <File path="E:\\Bin\plugins\NP_GFControl.dll"/>
+        <File path="E:\\Bin\odProxy.dll"/>
+        <File path="E:\\Bin\OPMiscDll.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.PaiPai\Bin\PaiPai.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.PayCenter\Bin\PayCenter.dll"/>
+        <File path="E:\\Bin\pcre2.dll"/>
+        <File path="E:\\Bin\PluginCommon.dll"/>
+        <File path="E:\\Bin\PreloginLogic.dll"/>
+        <File path="E:\\Bin\ProcessSession.dll"/>
+        <File path="E:\\Bin\qbcore.dll"/>
+        <File path="E:\\Bin\QCK.dll"/>
+        <File path="E:\\Bin\QInterLive.dll"/>
+        <File path="E:\\Bin\QMMiscDll.dll"/>
+        <File path="E:\\Bin\QPerfMon.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\Qpl.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\QQAudioHook.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\QQAudioHookService.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQGame\Bin\QQGame.dll"/>
+        <File path="E:\\Bin\QQIPC.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQLive\Bin\QQLive.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQMusic\Bin\QQMusic.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQRing\Bin\QQRing.dll"/>
+        <File path="E:\\Bin\QQService.dll"/>
+        <File path="E:\\ShellExt\QQShellExt.dll"/>
+        <File path="E:\\ShellExt\QQShellExt64.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQShow\Bin\QQShow.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQVip\Bin\QQVip.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.QQWebsite\Bin\QQWebsite.dll"/>
+        <File path="E:\\Bin\QScanEngine.dll"/>
+        <File path="E:\\Bin\QSLogic.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Qzone\Bin\Qzone.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\RemoteControl.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteHelp\Bin\RemoteHelp.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\RemoteProxy.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteControl\Bin\Remoting.dll"/>
+        <File path="E:\\Bin\RenderService.dll"/>
+        <File path="E:\\Bin\RequestHost.dll"/>
+        <File path="E:\\Bin\RHComm.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.RemoteHelp\Bin\RHCommV.dll"/>
+        <File path="E:\\Bin\RichControlOle.dll"/>
+        <File path="E:\\Bin\RICHED20.DLL"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\RocketApi.dll"/>
+        <File path="E:\\Bin\SkinMgr.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.SNSApp\Bin\SNSApp.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Soso\Bin\Soso.dll"/>
+        <File path="E:\\Bin\sqlite.dll"/>
+        <File path="E:\\Bin\ssleay32.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Stock\Bin\Stock.dll"/>
+        <File path="E:\\Bin\SystemMsg.dll"/>
+        <File path="E:\\Bin\TaskTray.dll"/>
+        <File path="E:\\Bin\TcHevcDec.dll"/>
+        <File path="E:\\Bin\TcHevcEnc.dll"/>
+        <File path="E:\\Bin\TcVpxDec.dll"/>
+        <File path="E:\\Bin\TcVpxEnc.dll"/>
+        <File path="E:\\Bin\Timwp.dll"/>
+        <File path="E:\\Bin\tinyxml.dll"/>
+        <File path="E:\\Bin\TNProxy.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Today\Bin\Today.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\TRAE.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.VAS\bin\TRCloudInputLib.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Tribe\Bin\Tribe.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.NetDisk\Bin\QQDisk\Bin\TXFTNActiveX.dll"/>
+        <File path="E:\\Bin\TXPFProxy.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\UDT.dll"/>
+        <File path="E:\\Bin\UtilGif.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.VAS\bin\VAS.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VCodec.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VideoDevice.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VP8.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VQQ2.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VqqAllInOne.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VQQConv2.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VQQGroup.dll"/>
+        <File path="E:\\Bin\VQQProto.dll"/>
+        <File path="E:\\Bin\vqqsdl.dll"/>
+        <File path="E:\\Bin\VQQTrace.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.AudioVideo\bin\VQQTrace2.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.WBlog\Bin\WBlog.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Weather\Bin\Weather.dll"/>
+        <File path="E:\\Bin\WebCtrl.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.WenWen\Bin\WenWen.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Winks\bin\Winks.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.Wireless\Bin\Wireless.dll"/>
+        <File path="E:\\Bin\WordSegment.dll"/>
+        <File path="E:\\Bin\XFQueryResource.dll"/>
+        <File path="E:\\Bin\xGraphic32.dll"/>
+        <File path="E:\\Bin\xImage.dll"/>
+        <File path="E:\\Plugin\Com.Tencent.XiuRoom\Bin\XiuRoom.dll"/>
+        <File path="E:\\Bin\xPlatform.dll"/>
+        <File path="E:\\Bin\xplatform_dl.dll"/>
+        <File path="E:\\Bin\XVEngine.dll"/>
+        <File path="E:\\Bin\zlib.dll"/>
+        <File path="E:\\Bin\ABL.sys"/>
+        <File path="E:\\Bin\PBL.sys"/>
+        <Dir path="E:\\ShellExt"/>
+        <Dir path="E:\\Resource.8.9.5.22057\Themes"/>
+        <Dir path="E:\\Resource.8.9.5.22057"/>
+        <Dir path="E:\\Plugin\Com.Tencent.XiuRoom\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.XiuRoom"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Wireless\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Wireless"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Winks\bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Winks"/>
+        <Dir path="E:\\Plugin\Com.Tencent.WenWen\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.WenWen"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\7"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\6"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\5"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\4"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\3"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\2"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin\1"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc\WeatherSkin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Weather"/>
+        <Dir path="E:\\Plugin\Com.Tencent.WBlog\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.WBlog"/>
+        <Dir path="E:\\Plugin\Com.Tencent.VAS\bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.VAS"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Tribe\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Tribe"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Today\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Today"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Stock\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Stock"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Soso\Misc\HotWord"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Soso\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Soso\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Soso"/>
+        <Dir path="E:\\Plugin\Com.Tencent.SNSApp\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.SNSApp"/>
+        <Dir path="E:\\Plugin\Com.Tencent.RemoteHelp\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.RemoteHelp\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.RemoteHelp"/>
+        <Dir path="E:\\Plugin\Com.Tencent.RemoteControl\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.RemoteControl"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\Misc\qzonepackage"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N\2052"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer\I18N"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\FlashPlayer"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Qzone"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQWebsite\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQWebsite"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\supervip"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\104"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\103"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\102"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont\101"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc\CustomFont"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQVip"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQShow\Misc\PropFace"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQShow\Misc\2052"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQShow\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQShow\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQShow"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQRing\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQRing"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQPet\bin\QQPet"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQPet\bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQPet"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQMusic\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQMusic"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQLive\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQLive"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQGame\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.QQGame"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PayCenter\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PayCenter"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PaiPai\Misc\Sound"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PaiPai\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PaiPai\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.PaiPai"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetDisk\Bin\QQDisk\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetDisk\Bin\QQDisk"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetDisk\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetDisk"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetBar\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.NetBar"/>
+        <Dir path="E:\\Plugin\Com.Tencent.MMOG\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.MMOG"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Memo\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Memo"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Mail\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Mail"/>
+        <Dir path="E:\\Plugin\Com.Tencent.IOT\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.IOT"/>
+        <Dir path="E:\\Plugin\Com.Tencent.HRTX\Misc\html_template"/>
+        <Dir path="E:\\Plugin\Com.Tencent.HRTX\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.HRTX\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.HRTX"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Graffito\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Graffito"/>
+        <Dir path="E:\\Plugin\Com.Tencent.GameLife\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.GameLife"/>
+        <Dir path="E:\\Plugin\Com.Tencent.FileTransfer\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.FileTransfer"/>
+        <Dir path="E:\\Plugin\Com.Tencent.DingDong\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.DingDong"/>
+        <Dir path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template\img"/>
+        <Dir path="E:\\Plugin\Com.Tencent.CRM\Misc\html_template"/>
+        <Dir path="E:\\Plugin\Com.Tencent.CRM\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.CRM\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.CRM"/>
+        <Dir path="E:\\Plugin\Com.Tencent.BabyQ\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.BabyQ"/>
+        <Dir path="E:\\Plugin\Com.Tencent.AudioVideo\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.AudioVideo\bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.AudioVideo"/>
+        <Dir path="E:\\Plugin\Com.Tencent.AppStore\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.AppStore"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Advertisement\Misc"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Advertisement\Bin"/>
+        <Dir path="E:\\Plugin\Com.Tencent.Advertisement"/>
+        <Dir path="E:\\Plugin"/>
+        <Dir path="E:\\Misc\WordData"/>
+        <Dir path="E:\\Misc\Sound\Classic"/>
+        <Dir path="E:\\Misc\Sound"/>
+        <Dir path="E:\\Misc\ResSwf"/>
+        <Dir path="E:\\Misc\QScan"/>
+        <Dir path="E:\\Misc\QQApp"/>
+        <Dir path="E:\\Misc\LNNEsc\defaultTips"/>
+        <Dir path="E:\\Misc\LNNEsc"/>
+        <Dir path="E:\\Misc\Editor\release"/>
+        <Dir path="E:\\Misc\Editor\images\newicon"/>
+        <Dir path="E:\\Misc\Editor\images"/>
+        <Dir path="E:\\Misc\Editor\html\css"/>
+        <Dir path="E:\\Misc\Editor\html"/>
+        <Dir path="E:\\Misc\Editor\css"/>
+        <Dir path="E:\\Misc\Editor"/>
+        <Dir path="E:\\Misc\CSC\2052\9"/>
+        <Dir path="E:\\Misc\CSC\2052\8"/>
+        <Dir path="E:\\Misc\CSC\2052\7"/>
+        <Dir path="E:\\Misc\CSC\2052\5"/>
+        <Dir path="E:\\Misc\CSC\2052\4"/>
+        <Dir path="E:\\Misc\CSC\2052\3"/>
+        <Dir path="E:\\Misc\CSC\2052\2"/>
+        <Dir path="E:\\Misc\CSC\2052\18"/>
+        <Dir path="E:\\Misc\CSC\2052\17"/>
+        <Dir path="E:\\Misc\CSC\2052\15"/>
+        <Dir path="E:\\Misc\CSC\2052\14"/>
+        <Dir path="E:\\Misc\CSC\2052\13"/>
+        <Dir path="E:\\Misc\CSC\2052\11"/>
+        <Dir path="E:\\Misc\CSC\2052\10"/>
+        <Dir path="E:\\Misc\CSC\2052\1"/>
+        <Dir path="E:\\Misc\CSC\2052"/>
+        <Dir path="E:\\Misc\CSC"/>
+        <Dir path="E:\\Misc\BrSelfExp\2052"/>
+        <Dir path="E:\\Misc\BrSelfExp"/>
+        <Dir path="E:\\Misc"/>
+        <Dir path="E:\\I18N\2052"/>
+        <Dir path="E:\\I18N"/>
+        <Dir path="E:\\Bin\plugins"/>
+        <Dir path="E:\\Bin\LICENSE"/>
+        <Dir path="E:\\Bin"/>
+        <Dir path="E:\\AuI18N\2052"/>
+        <Dir path="E:\\AuI18N"/>
+        <Dir path="E:\"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Skins"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\SafeBase"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp\100001"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\QQApp"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc\ClientType"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ\Misc"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent\QQ"/>
+        <Dir path="C:\Users\41866\AppData\Roaming\Tencent"/>
+        <Dir path="C:\Users\41866\AppData\Roaming"/>
+        <File path="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ\腾讯QQ.lnk"/>
+        <File path="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ\卸载腾讯QQ.lnk"/>
+        <Dir path="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ"/>
+        <Dir path="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件"/>
+        <File path="E:\Bin\SetupEx\QQSetupEx.exe"/>
+        <File path="E:\Bin\SetupEx\dlcore.dll"/>
+        <File path="E:\Bin\QQPCDetector.dll"/>
+        <File path="E:\Bin\QQPCDetectorEx.dll"/>
+        <Dir path="E:\Bin\SetupEx"/>
+        <Dir path="E:\Bin"/>
+        <File path="E:\Bin\dlcore.dll"/>
+        <File path="E:\ShellExt\QQShellExt.dll"/>
+        <File path="E:\ShellExt\QQShellExt64.dll"/>
+        <Dir path="E:\ShellExt"/>
+        <File path="E:\Bin\QQUrlMgr.exe"/>
+    </Files>
+    <Registry>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Tencent\QQ2009">
+            <Value name="Install" type="Str" data="$intallpath$"/>
+            <Value name="version" type="Str" data="$setupversion$"/>
+            <Value name="rversion" type="Str" data="$reportversion$"/>
+            <Value name="oversion" type="Str" data="$oldversion$"/>
+            <Value name="HummerSetup2012" type="DWord" data="1"/>
+            <Value name="SPContext_S" type="DWord" data="0"/>
+            <Value name="nShortcutDesktop" type="DWord" data="00000001"/>
+            <Value name="nShortcutQuickLaunch" type="DWord" data="00000001"/>
+            <Value name="nStartRunExe" type="DWord" data="00000000"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\.kipx">
+            <Value name="@" type="Str" data="KIPX.File"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\KIPX.File">
+            <Value name="@" type="Str" data="KIPX.File"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\KIPX.File\DefaultIcon">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe,-150"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\KIPX.File\shell\open\command">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe &quot;%1&quot;"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\.eip">
+            <Value name="@" type="Str" data="EMOTION.Package"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.Package">
+            <Value name="@" type="Str" data="EMOTION Package"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.Package\DefaultIcon">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe,-135"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.Package\shell\open\command">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe &quot;%1&quot;"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\.eif">
+            <Value name="@" type="Str" data="EMOTION.File"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.File">
+            <Value name="@" type="Str" data="EMOTION File"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.File\DefaultIcon">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe,-149"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\EMOTION.File\shell\open\command">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe &quot;%1&quot;"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\QQPet">
+            <Value name="URL Protocol" type="Str" data="$intallpath$\Plugin\com.tencent.qqpet\bin\QQPet\QQPetURLLink.exe"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\QQPet\shell\open\command">
+            <Value name="@" type="Str" data="&quot;$intallpath$\Plugin\com.tencent.qqpet\bin\QQPet\QQPetURLLink.exe&quot; &quot;%1&quot;"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Internet Explorer\ProtocolExecute\qqpet">
+            <Value name="WarnOnOpen" type="DWord" data="00000000"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{1FA39976-7194-44E8-8DD9-A9781D289934}">
+            <Value name="AppPath" type="Str" data="$intallpath$\Plugin\Com.Tencent.QQPet\bin\QQPet"/>
+            <Value name="AppName" type="Str" data="QQPetURLLink.exe"/>
+            <Value name="Policy" type="DWord" data="00000003"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\Tencent">
+            <Value name="@" type="Str" data="TencentProtocol"/>
+            <Value name="URL Protocol" type="Str" data="$intallpath$\Bin\Timwp.exe"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\Tencent\DefaultIcon">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe,1"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Classes\Tencent\shell\open\command">
+            <Value name="@" type="Str" data="$intallpath$\Bin\Timwp.exe &quot;%1&quot;"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Internet Explorer\ProtocolExecute\Tencent">
+            <Value name="WarnOnOpen" type="DWord" data="00000000"/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{052CFB79-9D62-42E3-8A15-DE66C2C97C3E}">
+            <Value name="EstimatedSize" type="DWord" data="$estimatedsize$"/>
+        </Key>
+        <Key rootkey="HKCU" subkey="SOFTWARE\Tencent\QQ2009">
+            <Value name="SPContext_P" type="Str" data=""/>
+            <Value name="SPContext_F" type="DWord" data=""/>
+        </Key>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Tencent\PlatForm_Type_List\3">
+            <Value name="TypeName" type="Str" data="QQ2013"/>
+            <Value name="TypePath" type="Str" data="$intallpath$"/>
+        </Key>
+        <Key rootkey="HKCU" subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\Stats\{ED4CA2E5-0EEA-44C1-AD7E-74A07A7507A4}\iexplore\AllowedDomains\*"/>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{ED4CA2E5-0EEA-44C1-AD7E-74A07A7507A4}"/>
+        <Key rootkey="HKCU" subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\Stats\{98F22D0A-B97F-4AF4-8E4C-A6596C8CDD4C}\iexplore\AllowedDomains\*"/>
+        <Key rootkey="HKLM" subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{98F22D0A-B97F-4AF4-8E4C-A6596C8CDD4C}"/>
+    </Registry>
+    <Regsvr>
+        <Moudle type="EXE" path="$common$\Tencent\QQProtect\QPUninst.exe" install_arg="" uninstall_arg="/S _ProductID=1000001 _ACTION=1  _?=C:\Users\41866\AppData\Roaming\Tencent\Logs"/>
+        <Moudle type="EXE" path="$installpath$\QQProtect\Bin\QQProtect.exe" install_arg="/fp enable /irqpcore" uninstall_arg="/fp disable /utqpcore"/>
+        <Moudle type="EXE" path="$intallpath$\Bin\TXPlatform.exe" install_arg="/RegServer" uninstall_arg="/UnregServer"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\AppCom.dll"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\Common.dll"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\KernelUtil.dll"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\TXPFProxy.dll"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\CPHelper.dll"/>
+        <Moudle type="DLL" path="$intallpath$\Bin\Timwp.dll"/>
+        <Moudle type="DLL" path="$common$\Tencent\Npchrome\npactivex.dll"/>
+        <Moudle type="DLL" path="$common$\Tencent\TXFTN\TXFTNActiveX1.17.dll"/>
+        <Moudle type="EXE" path="$intallpath$\Bin\QQUrlMgr.exe" install_arg="/RegServer" uninstall_arg="/UnregServer"/>
+        <Moudle type="DLL" path="$intallpath$\ShellExt\QQShellExt.dll"/>
+        <Moudle type="DLL" path="$intallpath$\ShellExt\QQShellExt64.dll"/>
+    </Regsvr>
+</Uninstall>
